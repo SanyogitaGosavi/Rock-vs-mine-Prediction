@@ -1,1 +1,1 @@
-# Rock-vs-mine-Prediction
+This project uses Machine Learning (ML) to predict whether an underwater object is a rock or a mine. It analyzes sonar images to identify patterns and features. The ML model is trained on labeled data to learn the differences between rocks and mines. Once trained, the model can predict the classification of new, unseen objects. This technology can help naval vessels avoid mines and ensure safe navigation. It's a critical application of ML in the field of object detection.
